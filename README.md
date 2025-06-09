@@ -83,21 +83,7 @@ Deployed using Gradio on Hugging Face Spaces:
 - Validation accuracy > training accuracy is not necessarily overfitting if dropout and augmentation are applied only during training.
 - Combining image and tabular signals helps, but only marginally in this dataset.
 
----
 
-## 🚧 To Do
-
-- Add Grad-CAM visualizations for interpretability
-- Experiment with fine-tuning pretrained backbones (e.g., unfreeze MobileNet layers)
-- Try more advanced ensembling (e.g., stacking with cross-validation)
-
----
-
-## 📬 Contact
-
-Created by [Tirna Deb](https://www.linkedin.com/in/tirnadeb/)  
-🧪 Postdoctoral researcher in astrophysics | Transitioning to AI in health & science  
-🌐 [tirnadebphd.github.io](https://tirnadebphd.github.io)
 
 ---
 
