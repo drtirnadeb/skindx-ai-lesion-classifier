@@ -106,3 +106,6 @@ Browse the full code and demo here:
 🤝 This project was built in collaboration with **Ashabari Majumdar**, whose discussion, support and insights were invaluable throughout development.
 
 If you found this project useful, feel free to ⭐️ the repo or share the Hugging Face demo!
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
