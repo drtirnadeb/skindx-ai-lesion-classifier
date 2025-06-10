@@ -109,8 +109,11 @@ Browse the full code and demo here:
 
 ---
 
-🧠 Special thanks to the open-source ISIC dataset community.  
-🤝 This project was built in collaboration with **Ashabari Majumdar**, whose discussion, support and insights were invaluable throughout development.
+🧠 Special thanks to the open-source ISIC dataset community. 
+
+🤝 This project was built in collaboration with [**Ashabari Majumdar**](https://github.com/ashabari), whose discussions, support and insights were invaluable throughout development.
+
+This project was built in collaboration with **Ashabari Majumdar**, whose discussion, support and insights were invaluable throughout development.
 
 If you found this project useful, feel free to ⭐️ the repo or share the Hugging Face demo!
 
