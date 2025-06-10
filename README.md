@@ -1,5 +1,12 @@
 # 🧠 SkinDx AI – Skin Lesion Risk Classifier
 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
+![Gradio](https://img.shields.io/badge/Gradio-3.50-orange.svg)
+[![Hugging Face Space](https://img.shields.io/badge/🤗%20Hugging%20Face-Space-blue)](https://huggingface.co/spaces/tirnadebphd/SkinDx-App)
+
+
 **SkinDx AI** is an end-to-end deep learning pipeline to classify skin lesions as *benign* or *malignant*, designed to support triage and early risk detection in dermatology. It also includes a public Gradio-based app that allows real-time user interaction.
 
 [🚀 Try the demo](https://huggingface.co/spaces/tirnadebphd/SkinDx-App)
@@ -106,6 +113,4 @@ Browse the full code and demo here:
 🤝 This project was built in collaboration with **Ashabari Majumdar**, whose discussion, support and insights were invaluable throughout development.
 
 If you found this project useful, feel free to ⭐️ the repo or share the Hugging Face demo!
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
